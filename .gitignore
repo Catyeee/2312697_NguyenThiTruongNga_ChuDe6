@@ -1,0 +1,20 @@
+# Ignore Visual Studio temporary files, build results, and cache
+.vs/
+*.vsidx
+
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Others
+*.log
+*.tmp
+*.cache

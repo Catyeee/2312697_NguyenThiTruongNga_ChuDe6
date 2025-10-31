@@ -1,9 +1,0 @@
-D:\2312697_NguyenThiTruongNga_ChuDe6\BusinessLogic\bin\Debug\BusinessLogic.dll
-D:\2312697_NguyenThiTruongNga_ChuDe6\BusinessLogic\bin\Debug\BusinessLogic.pdb
-D:\2312697_NguyenThiTruongNga_ChuDe6\BusinessLogic\bin\Debug\DataAccess.dll
-D:\2312697_NguyenThiTruongNga_ChuDe6\BusinessLogic\bin\Debug\DataAccess.pdb
-D:\2312697_NguyenThiTruongNga_ChuDe6\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
-D:\2312697_NguyenThiTruongNga_ChuDe6\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
-D:\2312697_NguyenThiTruongNga_ChuDe6\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
-D:\2312697_NguyenThiTruongNga_ChuDe6\BusinessLogic\obj\Debug\BusinessLogic.dll
-D:\2312697_NguyenThiTruongNga_ChuDe6\BusinessLogic\obj\Debug\BusinessLogic.pdb

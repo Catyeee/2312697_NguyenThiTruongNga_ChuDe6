@@ -149,12 +149,12 @@ namespace RestaurantManagementProject
                 }
             }    
         }
-        //Phương thức cập nhật dữ liệu cho bảng Food
-        //Trả về số dương nếu thành công, ngược lại trả về số âm
-        //public int UpdateFood()
-        //{
-        //    Food food = new Food();
-        //}
+        Phương thức cập nhật dữ liệu cho bảng Food
+        Trả về số dương nếu thành công, ngược lại trả về số âm
+        public int UpdateFood()
+        {
+            Food food = new Food();
+        }
         private void cmdUpdate_Click(object sender, EventArgs e)
         {
 
